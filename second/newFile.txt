@@ -1,0 +1,5 @@
+This is the second repo file created and inserted inside the documents that you need to understand
+1. Repo created in the website
+2. SSH clone technique is used to clone the exact file from the server to the local computer
+3. separate file is created and added to the server
+
